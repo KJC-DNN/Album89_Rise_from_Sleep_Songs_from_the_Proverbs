@@ -56,8 +56,6 @@ All Glory to Lord Jesus Christ.
 
 ## Published
 
-## Published
-
 - GitHub Release: https://github.com/KJC-DNN/Album89_Rise_from_Sleep_Songs_from_the_Proverbs/releases/tag/89.0.0
 - Archive.org: https://archive.org/details/album-89-rise-from-sleep-songs-from-the-proverbs-main-cover.jpg
 - Zenodo: https://doi.org/10.5281/zenodo.23016491
